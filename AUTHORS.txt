@@ -1,0 +1,2 @@
+AUTHORS: Rémi Vaudaine
+CONTRIBUTORS: Pierre Borgnat, Paulo Gonçalves, Rémi Gribonval and Márton Karsai 

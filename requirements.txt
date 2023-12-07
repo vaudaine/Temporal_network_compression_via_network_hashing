@@ -1,0 +1,5 @@
+numpy==1.24.3
+scipy==1.10.1
+networkx==3.1
+datasketch==1.6.3
+POT==0.9.0
